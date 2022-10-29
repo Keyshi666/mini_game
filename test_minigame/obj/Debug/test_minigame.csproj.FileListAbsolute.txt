@@ -1,0 +1,9 @@
+D:\C#\test_minigame\test_minigame\bin\Debug\test_minigame.exe.config
+D:\C#\test_minigame\test_minigame\bin\Debug\test_minigame.exe
+D:\C#\test_minigame\test_minigame\bin\Debug\test_minigame.pdb
+D:\C#\test_minigame\test_minigame\obj\Debug\test_minigame.csprojResolveAssemblyReference.cache
+D:\C#\test_minigame\test_minigame\obj\Debug\test_minigame.Form1.resources
+D:\C#\test_minigame\test_minigame\obj\Debug\test_minigame.Properties.Resources.resources
+D:\C#\test_minigame\test_minigame\obj\Debug\test_minigame.csproj.GenerateResource.Cache
+D:\C#\test_minigame\test_minigame\obj\Debug\test_minigame.exe
+D:\C#\test_minigame\test_minigame\obj\Debug\test_minigame.pdb
